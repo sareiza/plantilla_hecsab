@@ -24,6 +24,8 @@ Responde las preguntas que aparecen y listo. Tu proyecto estará completamente c
 ## 📁 Estructura del proyecto
 
 Cada proyecto creado con esta plantilla tendrá la siguiente estructura:
+```
+Estructura del Carpetado  
 
 mi_proyecto/
 ├── data/
@@ -44,6 +46,7 @@ mi_proyecto/
 ├── .gitignore         → Archivos y carpetas ignorados por Git
 ├── main.py            → Punto de entrada principal del proyecto
 └── README.md          → Documentación general del proyecto
+```
 
 ---
 
